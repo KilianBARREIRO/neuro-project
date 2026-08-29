@@ -7,6 +7,7 @@ Ce projet repose principalement sur des **Jupyter Notebooks**.
 Les notebooks contiennent le code principal, les explications et les résultats.
 Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
 
+IDEES D'ARCHITECTURES POUR LE PROJET
 ton-projet/
 ├── notebooks/
 │   └── explication_detaillee.ipynb     ← version pédagogique
