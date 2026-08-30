@@ -22,14 +22,15 @@ Développer un projet de code pour utiliser les principaux outils de travail des
 
 **Liste non exhaustive :**  
 
-**(i)** Environnement de travail propre, efficace, compréhensible, reproductible (principes FAIR)
+**(i)** Environnement de travail propre et efficace (dépendances, principes FAIR)
 
-**(ii)** Packages => Récupération
-Pandas, scikit-learn, statsmodels
+**(ii)** Packages (Pandas, scikit-learn, statsmodels)
 
 **(iii)** Modèles simples, supervisés et complexes
 
-**(iiii)** Pipelines reproductibles (SAS, SQL, NLP..)
+**(iV)** Pipelines reproductibles (SAS, SQL, NLP..)
+
+**(V)** Visualisation (Quarto?)
 
 
 ### Informations importantes techniques
@@ -39,6 +40,15 @@ Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
 
 **2)** Si vous voulez faire tourner ce code il faudra bien entendu charger les bonnes versions des librairies.
 Une possibilité est d'aller dans votre environnement de projet à l'aide du terminal et d'écrire : pip install -r requirements.txt
+
+
+# Données
+
+Données utilisées
+
+Sous-ensemble Steinmetz et al. (2019) – spike times (OSF)
+Dataset complet Steinmetz (39 sessions, labels de régions cérébrales) – version Neuromatch Academy
+(https://osf.io/hygbm/files/osfstorage)
 
 ## IDEES D'ARCHITECTURES POUR LE PROJET
 
