@@ -2,7 +2,7 @@
 
 ## Impatient ? Just read the next 3 points! texte
 
-<u> #### Informations importantes techniques </u>
+<u> ### Informations importantes techniques </u>
 1) Parallèlement au .py principal, ce projet dispose également d'un code annexe détaillé pour bien comprendre les étapes ; il est codé en .ipynb, donc un **Jupyter Notebook**.
 Les notebooks contiennent le code principal, les explications et les résultats.
 Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
