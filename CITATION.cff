@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Computational Neuroscience Project – Analysis of Steinmetz Spike Data"
+version: 0.1.0
+date-released: 2026-08-30
+authors:
+- family-names: "[TonNom]"
+    given-names: "[TonPrénom]"
+    orcid: "https://orcid.org/0009-0003-5188-3288"   # optionnel mais recommandé
+repository-code: "https://github.com/KilianBARREIRO/neuro-project.git"
+license: MIT
+type: software
+abstract: >
+  Reproducible analysis pipeline of neural spike train data from the Steinmetz et al. (2019) dataset.
+  Built as a personal project to demonstrate skills in computational neuroscience, data analysis and machine learning.
+keywords:
+  - computational neuroscience
+  - spike trains
+  - Steinmetz dataset
+  - reproducible research
