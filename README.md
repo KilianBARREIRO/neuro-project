@@ -1,14 +1,12 @@
 # Computational neuroscience project
 
-## Impatient ? Just read the next 3 points! 
+## Long story short
 
-### Informations importantes techniques
-**1)** Parallèlement au .py principal, ce projet dispose également d'un  **code annexe** détaillé pour bien comprendre les étapes ; il est codé en .ipynb, donc un **Jupyter Notebook**.
-Les notebooks contiennent le code principal, les explications et les résultats.
-Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
+### Informations techniques importantes
+**1)** **Code annexe** détaillé en .ipynb (explications et résultats).
 
-**2)** Si vous voulez faire tourner ce code, il faudra bien entendu __charger les bonnes versions des librairies__.
-Une possibilité est d'aller dans votre environnement de projet à l'aide du terminal et d'écrire :
+**2)** __Rappel : Chargez les bonnes versions des librairies__.
+Option :
 ```bash
 pip install -r requirements.txt
 ```
@@ -16,24 +14,20 @@ pip install -r requirements.txt
 **3)** Download the project and __launch the .py__ ! 
 
 
-## Comment utiliser ce projet
+## Long story not so short
 ### Objectif Principal :
 Développer un projet de code pour utiliser les principaux outils de travail des neurosciences computationnelles.
 
 **Liste non exhaustive :**  
 
 **(i)** Environnement de travail propre et efficace (dépendances, principes FAIR)
-
 **(ii)** Packages (Pandas, scikit-learn, statsmodels)
-
 **(iii)** Modèles simples, supervisés et complexes
-
 **(iV)** Pipelines reproductibles (SAS, SQL, NLP..)
-
 **(V)** Visualisation (Quarto?)
 
 
-### Informations importantes techniques
+### Informations techniques importantes
 **1)** Parallèlement au .py principal ce projet dispose également d'un code annexe détaillé pour bien comprendre les étapes, il est codé en .ipynb donc **Jupyter Notebooks**.
 Les notebooks contiennent le code principal, les explications et les résultats.
 Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
@@ -42,13 +36,14 @@ Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
 Une possibilité est d'aller dans votre environnement de projet à l'aide du terminal et d'écrire : pip install -r requirements.txt
 
 
-# Données
-
-Données utilisées
+# Données utilisées
 
 Sous-ensemble Steinmetz et al. (2019) – spike times (OSF)
 Dataset complet Steinmetz (39 sessions, labels de régions cérébrales) – version Neuromatch Academy
 (https://osf.io/hygbm/files/osfstorage)
+
+
+
 
 ## IDEES D'ARCHITECTURES POUR LE PROJET
 
