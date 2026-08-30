@@ -1,26 +1,49 @@
-# neuro-project
+# Computational neuroscience project
 
-## Comment utiliser ce projet
+## Impatient ? Just read the next 3 points! texte
 
-Ce projet repose principalement sur des **Jupyter Notebooks**.
-
+`<u> #### Informations importantes techniques </u>`
+1) Parallèlement au .py principal, ce projet dispose également d'un code annexe détaillé pour bien comprendre les étapes ; il est codé en .ipynb, donc un **Jupyter Notebook**.
 Les notebooks contiennent le code principal, les explications et les résultats.
 Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
 
+2) Si vous voulez faire tourner ce code, il faudra bien entendu `__charger les bonnes versions des librairies__`.
+Une possibilité est d'aller dans votre environnement de projet à l'aide du terminal et d'écrire :
+```bash
+pip install -r requirements.txt
+```
+3) Download the project and launch the .py ! 
+
+
+## Comment utiliser ce projet
+### Objectif Principal :
+Développer un projet de code pour utiliser les principaux outils de travail des neurosciences computationnelles.
+
+Liste non exhaustive : 
+(i) Environnement de travail propre, efficace, compréhensible, reproductible (principes FAIR)
+(ii) Packages => Récupération
+Pandas, scikit-learn, statsmodels
+(iii) Modèles simples, supervisés et complexes
+(iiii) Pipelines reproductibles :
+
+ 
+
 IDEES D'ARCHITECTURES POUR LE PROJET
-ton-projet/
+neuro-project/
 ├── notebooks/
-│   └── explication_detaillee.ipynb     ← version pédagogique
+
+│   └── neuro-project.ipynb     ← version pédagogique
+
 ├── src/   (ou à la racine)
-│   └── mon_script.py                   ← version propre et utilisable
+
+│   └── neuro-project.py        ← version propre et utilisable
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitattributes
 
-```bash
-# Installation des dépendances
-pip install -r requirements.txt
+└── .gitignore
 
-# Lancer Jupyter
-jupyter notebook
-```
+
