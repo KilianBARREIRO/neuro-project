@@ -4,9 +4,9 @@ title: "Computational Neuroscience Project – Analysis of Steinmetz Spike Data"
 version: 0.1.0
 date-released: 2026-08-30
 authors:
-- family-names: "[TonNom]"
-    given-names: "[TonPrénom]"
-    orcid: "https://orcid.org/0009-0003-5188-3288"   # optionnel mais recommandé
+- family-names: "Barreiro"
+    given-names: "Kilian"
+    orcid: "https://orcid.org/0009-0003-5188-3288"   
 repository-code: "https://github.com/KilianBARREIRO/neuro-project.git"
 license: MIT
 type: software
