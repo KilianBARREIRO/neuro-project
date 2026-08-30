@@ -2,8 +2,8 @@
 
 ## Impatient ? Just read the next 3 points! texte
 
-<u> ### Informations importantes techniques </u>
-1) Parallèlement au .py principal, ce projet dispose également d'un code annexe détaillé pour bien comprendre les étapes ; il est codé en .ipynb, donc un **Jupyter Notebook**.
+### Informations importantes techniques
+1) Parallèlement au .py principal, ce projet dispose également d'un  <u> code annexe </u> détaillé pour bien comprendre les étapes ; il est codé en .ipynb, donc un **Jupyter Notebook**.
 Les notebooks contiennent le code principal, les explications et les résultats.
 Il est fortement recommandé de les ouvrir avec Jupyter ou VS Code.
 
@@ -12,7 +12,7 @@ Une possibilité est d'aller dans votre environnement de projet à l'aide du ter
 ```bash
 pip install -r requirements.txt
 ```
-3) Download the project and launch the .py ! 
+3) Download the project and __launch the .py__ ! 
 
 
 ## Comment utiliser ce projet
